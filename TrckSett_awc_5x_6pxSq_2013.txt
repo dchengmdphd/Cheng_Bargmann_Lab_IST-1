@@ -1,0 +1,8 @@
+0 //animal: irrelevant.  THE ORDER OF THESE PARAMETERS MUST BE MAINTAINED. ADD EXTRA PARAMETERS AT THE END
+950 //lower: threshold default
+5 //h: height of search window for tracking
+5 //w: whidth of search window for tracking
+6 //sqsize: size of square for intensity measurement of neuron ***was 4, 6 for AWC line
+15 //maxsize: upper limit of particle size for tracking
+4 //minsize: lower limit of particle size for tracking ***was 2, 4 for AWC line
+5 //expandallow: limit of allowed expansion of search window for tracking

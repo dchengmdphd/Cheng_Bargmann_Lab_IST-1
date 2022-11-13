@@ -1,6 +1,2 @@
-# Cheng_Bargmann_Lab_IST-1
-AWC ASH Axon Data Acquisition Du edit.ijm is for pHluorin analyses. 
-SmallArenaTrackingAll_20190609_dc_offsetMax_slim is for GCaMP analyses. 
-chemotaxis_analyses_master is for animal behavior tracking. 
-overlay_chemotaxis_distance_vs_time_behavior_turn is for graphical summary plots of animal behavior tracking. 
-Remaining files are for analysis of animal head angles before turning.
+Directory for code used in (Cheng et al., 2022, Cell Reports 41, 111685 November 22, 2022). See Edit release Cheng_Bargmann_IST-1_v2 for latest version of all codes. 
+The file “AWC ASH Axon Data Acquisition Du edit.ijm” is for pHluorin analyses; “SmallArenaTrackingAll_20190609_dc_offsetMax_slim.txt” is for GCaMP analyses; “chemotaxis_analyses_master” is for animal behavior tracking; “overlay_chemotaxis_distance_vs_time_behavior_turn” is for graphical summary plots of animal behavior tracking. Remaining files are for the analysis of animal head angles before turning.”
